@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Vamshikrishna kondra 👋
 
-<!--
-**Vamshikrishnakondra/Vamshikrishnakondra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Scientist | Machine Learning | SQL | Python | Statistics | Data Visualization | Data Analysis**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 About Me
+I'm a Data Science graduate passionate about turning data into actionable insights. I love exploring datasets, building predictive models, and creating visualizations that tell a story. Currently working on some datasets  to contribute to data-driven projects and grow as a Data Scientist.
+
+---
+
+## 🔹 Skills
+- **Programming:** Python, SQL, 
+- **Data Science & ML:** Machine Learning, Statistical Modeling, Data Analysis  
+- **Data Visualization:** Matplotlib, Seaborn, Power BI,  
+- **Tools & Platforms:** Git, GitHub, Jupyter Notebook, Excel 
+
+## 🔹 Connect with Me
+- 📧 Email: kvkgoud4@gmail.com  
+- 🔗 LinkedIn:  www.linkedin.com/in/vamshikrishnakondra
